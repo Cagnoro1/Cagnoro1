@@ -7,8 +7,8 @@
 
 ## About Me 
 
-- 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
-- 👩🏻‍🎓 Studied Computer Science at the University of Otago, New Zealand
-- 🎨 Making videos about Computer Science, tech, and productivity on YouTube
-- 🌷 #learninginpublic in my digital garden
-- 💭 Currently learning about data analytics and dataviz!
+- 👩🏽‍💻 Sharing about my journey and learnings in tech <br/>
+- 👩🏽‍🎓 Studied [Computer Information](https://business.howard.edu/programs/undergraduate/computer-information-systems) Systems at Howard University in Washington D.C. <br/>
+- 💻I'm diving into AWS Cloud! After a year of exploration, it’s time to level up. I’ll be sharing my progress, and projects, and connecting with fellow AWS enthusiasts. <br/>
+- 🌷#learninginpublic in my digital garden <br/>
+- 💻☁️ Currently learning about cloud Computing and AWS services! <br/>
