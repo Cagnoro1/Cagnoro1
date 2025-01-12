@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Christelle!
 
-- 🔭 I'm currently working on AWS cloud projects
-- 🌱 I'm currently learning DevOps CI/CD Pipeline and Data Pipeline with AWS
-- 👯‍♂️ I'm looking to collaborate 
-
 - 🔭 I’m currently working on **AWS Cloud** projects  <br/>
 - 🌱 I’m learning **DevOps CI/CD Pipelines** and **Data Pipelines** with AWS    <br/>
 - 👯‍♂️ I’m looking to collaborate on **cloud and DevOps projects**    <br/>
