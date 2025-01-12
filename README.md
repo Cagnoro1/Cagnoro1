@@ -8,4 +8,4 @@
 
 
 <!-- GitHub stats-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Cagnoro1/github-readme-stats)
+[![Christelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cagnoro1)](https://github.com/cagnoro1/github-readme-stats)
