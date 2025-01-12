@@ -5,3 +5,7 @@
 - 💻I'm diving into AWS Cloud! After a year of exploration, it’s time to level up. I’ll be sharing my progress, and projects, and connecting with fellow AWS enthusiasts. <br/>
 - 🌷#learninginpublic in my digital garden <br/>
 - 💻☁️ Currently learning about cloud Computing and AWS services! <br/>
+
+
+<!-- GitHub stats-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
