@@ -9,7 +9,6 @@
 
 <!-- GitHub stats-->
 
-![Christelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cagnoro1&show_icons=true&theme=swift)
 
 
 
