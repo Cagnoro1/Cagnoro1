@@ -1,12 +1,17 @@
 # 👋 Hi, I'm Christelle!
 
-- 
-- 👩🏽‍💻 Sharing about my journey and learnings in tech <br/>
-- 👩🏽‍🎓 Studied [Computer Information](https://business.howard.edu/programs/undergraduate/computer-information-systems) Systems at Howard University in Washington D.C. <br/>
-- 💻I'm diving into AWS Cloud! After a year of exploration, it’s time to level up. I’ll be sharing my progress, and projects, and connecting with fellow AWS enthusiasts. <br/>
-- 🌷#learninginpublic in my digital garden <br/>
-- 💻☁️ Currently learning about cloud Computing and AWS services! <br/>
+- 🔭 I'm currently working on AWS cloud projects
+- 🌱 I'm currently learning DevOps CI/CD Pipeline and Data Pipeline with AWS
+- 👯‍♂️ I'm looking to collaborate 
 
+- 🔭 I’m currently working on **AWS Cloud** projects  <br/>
+- 🌱 I’m learning **DevOps CI/CD Pipelines** and **Data Pipelines** with AWS    <br/>
+- 👯‍♂️ I’m looking to collaborate on **cloud and DevOps projects**    <br/>
+- 💡 I’m passionate about **cloud architecture, automation, and solving real-world problems**    <br/>
+- 📫 You can reach me at [LinkedIn] ](https://www.linkedin.com/in/christelle-agnoro/)   <br/>
+- ⚡ Fun fact: I’m a lifelong learner who loves tackling new challenges!  
+
+Let’s connect and build amazing things together! 🚀  
 
 <!-- GitHub stats-->
 
