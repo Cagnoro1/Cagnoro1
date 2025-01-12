@@ -8,7 +8,7 @@
 - 🌱 I’m learning **DevOps CI/CD Pipelines** and **Data Pipelines** with AWS    <br/>
 - 👯‍♂️ I’m looking to collaborate on **cloud and DevOps projects**    <br/>
 - 💡 I’m passionate about **cloud architecture, automation, and solving real-world problems**    <br/>
-- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/christelle-agnoro/)   <br/>
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/christelle-agnoro/)   <br/>
 - ⚡ Fun fact: I’m a lifelong learner who loves tackling new challenges!  
 
 Let’s connect and build amazing things together! 🚀  
