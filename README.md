@@ -27,7 +27,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Cagnoro1&theme=swift&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Data Analysis Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Cagnoro1&limit=5&theme=swift&combine_all_yearly_contributions=true)
 
 ---
