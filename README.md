@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Christelle!
 
+- 
 - 👩🏽‍💻 Sharing about my journey and learnings in tech <br/>
 - 👩🏽‍🎓 Studied [Computer Information](https://business.howard.edu/programs/undergraduate/computer-information-systems) Systems at Howard University in Washington D.C. <br/>
 - 💻I'm diving into AWS Cloud! After a year of exploration, it’s time to level up. I’ll be sharing my progress, and projects, and connecting with fellow AWS enthusiasts. <br/>
@@ -8,8 +9,6 @@
 
 
 <!-- GitHub stats-->
-
-
 
 
 ## 🌐 Socials:
