@@ -9,3 +9,4 @@
 
 <!-- GitHub stats-->
 [![Christelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cagnoro1)](https://github.com/cagnoro1/github-readme-stats)
+![Christelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cagnoro1_icons=true&theme=radical)
