@@ -8,5 +8,7 @@
 
 
 <!-- GitHub stats-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 [![Christelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cagnoro1 private=true&show icons=true&theme=radical&hide rank=false)]
 (https://github.com/cagnoro1/github-readme-stats)
