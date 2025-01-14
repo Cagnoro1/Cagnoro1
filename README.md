@@ -29,13 +29,9 @@ Let’s connect and build amazing things together! 🚀
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cagnoro1&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cagnoro1&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cagnoro1&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cagnoro1&theme=swift&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Cagnoro1&limit=5&theme=swift&combine_all_yearly_contributions=true)
