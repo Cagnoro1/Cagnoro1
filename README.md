@@ -1,3 +1,8 @@
+
+![linkedin cover](https://github.com/user-attachments/assets/62de6ea9-0e0e-43ba-b4de-1465c1554dd9)
+
+
+
 # 👋 Hi, I'm Christelle!
 
 - 🔭 I’m currently working on **AWS Cloud** projects  <br/>
