@@ -1,5 +1,8 @@
 
-![linkedin cover](https://github.com/user-attachments/assets/62de6ea9-0e0e-43ba-b4de-1465c1554dd9)
+
+
+https://github.com/user-attachments/assets/78635759-040b-4b6f-9714-a9e2ad6eb70c 
+
 
 
 
