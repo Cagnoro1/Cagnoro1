@@ -5,14 +5,16 @@
 
 
 
-# 👋 Hi, I'm Christelle!
+# 👋 Hi, I'm Christelle! 
+A data-driven problem solver passionate about turning raw data into actionable insights.
 
-- 🔭 I’m currently working on **AWS Cloud** projects  <br/>
-- 🌱 I’m learning **DevOps CI/CD Pipelines** and **Data Pipelines** with AWS    <br/>
-- 👯‍♂️ I’m looking to collaborate on **cloud and DevOps projects**    <br/>
-- 💡 I’m passionate about **cloud architecture, automation, and solving real-world problems**    <br/>
+- 🔍 **Currently:** Working on end-to-end **data analysis** projects from cleaning and modeling to visualization and storytelling.  <br/>
+- 📚 **Learning:** Advanced **Python (Pandas, NumPy, SciPy)**, **Tableau** and  **PowerBI** to build dynamic dashboards and scalable data pipelines. <br/>
+- 🤝 **Collaborate:** Interested in  **cloud-based analytics (AWS/GCP)** and  **DevOps automation** to streamline data workflows.   <br/>
+- 💡 **Passionate About:** I’m passionate about ** Data Analytics, AI and Machine learninf,cloud architecture, automation, and solving real-world problems**    <br/>
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/christelle-agnoro/)   <br/>
-- ⚡ Fun fact: I’m a lifelong learner who loves tackling new challenges!  
+- ⚡ **Fun fact** I’m a lifelong learner who loves tackling new challenges!
+  I thrive on challenges, whether it’s mastering a new tool or optimizing a messy dataset! 
 
 Let’s connect and build amazing things together! 🚀  
 
